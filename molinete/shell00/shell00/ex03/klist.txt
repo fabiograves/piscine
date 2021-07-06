@@ -1,0 +1,5 @@
+Credentials cache: API:31F107C3-749B-4A6D-B157-F8EAE8CA47DD
+        Principal: fgraves@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+Jun 20 16:13:52 2021  Jun 21 02:13:52 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
